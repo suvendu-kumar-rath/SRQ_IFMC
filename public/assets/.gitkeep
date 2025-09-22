@@ -1,0 +1,3 @@
+# This file ensures the assets directory is created
+# Move your existing assets (SRQ_LOGO.jpeg, manasi-jena.jpeg, mutual-fund.png, ndc.png, etc.) 
+# from the root assets/ folder to this public/assets/ folder for Next.js to serve them properly
