@@ -60,7 +60,7 @@ export default function Header() {
             </div>
             <nav>
               <ul className={`flex items-center transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'gap-4' : 'gap-8'}`}>
-                <li>
+                {/* <li>
                   <Link
                     href="/"
                     className={`text-gray-700 hover:text-blue-600 font-medium transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-sm' : 'text-base'}`}
@@ -91,15 +91,15 @@ export default function Header() {
                   >
                     Marketing & Communication
                   </Link>
-                </li>
-                {/* <li>
+                </li> */}
+                <li>
                   <Link
                     href="/real-estate"
                     className={`text-gray-700 hover:text-blue-600 font-medium transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-sm' : 'text-base'}`}
                   >
                     Real Estate
                   </Link>
-                </li> */}
+                </li> 
                 <li>
                   <Link
                     href="/contact"
