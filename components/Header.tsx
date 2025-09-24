@@ -53,7 +53,7 @@ export default function Header() {
                   className="transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] object-contain transform-gpu"
                 />
               </div>
-              <span className={`font-bold text-red-800 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-base' : 'text-xl'
+              <span className={`font-bold text-red-600 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-base' : 'text-xl'
                 }`}>
                 SRQ Estates
               </span>
