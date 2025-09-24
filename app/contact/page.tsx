@@ -121,7 +121,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900">Email Us</h3>
-                    <p className="text-gray-600">info@srqifmc.com</p>
+                    <p className="text-gray-600">solutions@sriq.in</p>
                   </div>
                 </div>
                 
@@ -141,7 +141,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900">Visit Us</h3>
-                    <p className="text-gray-600">DCB-228 DLF CYBERCITY, PATIA BHUBANESWAR</p>
+                    <p className="text-gray-600">DCB-422 DLF CYBERCITY, PATIA BHUBANESWAR</p>
                   </div>
                 </div>
               </div>
