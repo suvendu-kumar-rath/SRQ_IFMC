@@ -5,10 +5,10 @@ export default function Footer() {
     <footer style={{background: '#1e293b', color: 'white', padding: '3rem 0 1rem'}}>
       <div className="section-container">
         <div style={{display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '2rem', marginBottom: '2rem'}}>
-          {/* Column 1: SRIQ IFMC */}
+          {/* Column 1: SRIQ Estates */}
           <div>
             <h3 style={{fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem', color: 'white'}}>
-              SRQ IFMC
+              SRQ Estates
             </h3>
             <p style={{color: '#94a3b8', lineHeight: 1.6, marginBottom: '1.5rem'}}>
               Integrated financial and communication solutions that drive growth, enhance brand presence, and optimize financial portfolios.
