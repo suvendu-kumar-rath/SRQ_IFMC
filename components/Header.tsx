@@ -103,7 +103,7 @@ export default function Header() {
                 <li>
                   <Link
                     href="/contact"
-                    className={`bg-gradient-to-r from-blue-600 to-purple-600 text-white px-4 py-2 rounded-lg hover:from-blue-700 hover:to-purple-700 font-medium transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 ${isScrolled ? 'text-sm px-3 py-1.5' : 'text-base px-4 py-2'}`}
+                    className={`bg-gradient-to-r from-red-600 to-red-800 text-white px-4 py-2 rounded-lg hover:from-blue-700 hover:to-purple-700 font-medium transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 ${isScrolled ? 'text-sm px-3 py-1.5' : 'text-base px-4 py-2'}`}
                   >
                     Contact Us
                   </Link>
