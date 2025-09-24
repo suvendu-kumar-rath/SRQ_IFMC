@@ -156,7 +156,7 @@ export default function Footer() {
           textAlign: 'center'
         }}>
           <p style={{color: '#94a3b8', margin: '0 0 0.5rem 0', fontSize: '0.9rem'}}>
-            © 2023 SRQ IFMC. All rights reserved.
+            © 2023 SRQ Estates. All rights reserved.
           </p>
           <p style={{color: '#6b7280', margin: 0, fontSize: '0.85rem', lineHeight: 1.4}}>
             Disclaimer: Financial and insurance advisory services are subject to market risks. Please read all scheme-related documents carefully before investing.
