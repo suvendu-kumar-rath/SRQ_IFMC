@@ -112,7 +112,7 @@ export default function Footer() {
                   📍
                 </div>
                 <p style={{color: '#94a3b8', margin: 0, lineHeight: 1.5}}>
-                  DCB-228 DLF CYBERCITY, PATIA BHUBANESWAR
+                  DCB-422 DLF CYBERCITY, PATIA BHUBANESWAR
                 </p>
               </div>
               
@@ -143,7 +143,7 @@ export default function Footer() {
                 }}>
                   📧
                 </div>
-                <p style={{color: '#94a3b8', margin: 0}}>solutions@srq.in</p>
+                <p style={{color: '#94a3b8', margin: 0}}>solutions@sriq.in</p>
               </div>
             </div>
           </div>

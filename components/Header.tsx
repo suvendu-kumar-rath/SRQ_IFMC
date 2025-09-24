@@ -46,16 +46,16 @@ export default function Header() {
             <div className={`flex items-center transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'gap-2' : 'gap-3'}`}>
               <div className={`${isScrolled ? 'w-10 h-10' : 'w-14 h-14'} rounded-full bg-white shadow-lg flex items-center justify-center p-2 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] overflow-hidden transform-gpu`}>
                 <Image
-                  src="/assets/assets/SRIQ IFMC LLP BRAND KIT.svg"
+                  src="/assets/assets/SRIQ IFMC LLP BRAND KIT.jpg"
                   alt="SRIQ IFMC LLP Logo"
                   width={isScrolled ? 24 : 32}
                   height={isScrolled ? 24 : 32}
                   className="transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] object-contain transform-gpu"
                 />
               </div>
-              <span className={`font-bold text-blue-800 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-base' : 'text-xl'
+              <span className={`font-bold text-red-800 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] ${isScrolled ? 'text-base' : 'text-xl'
                 }`}>
-                SRQ
+                SRQ Estates
               </span>
             </div>
             <nav>
